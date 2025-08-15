@@ -1236,6 +1236,12 @@
     },
     "done": true
   },
+  "ic2:mv_flux_generator_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:45:11 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/quartz_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-08 22:22:15 +0000"
@@ -1682,6 +1688,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-30 17:51:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-08-15 22:45:11 +0000"
     },
     "done": true
   },
@@ -19222,6 +19234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-15 22:45:11 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-07-28 17:33:05 +0000"
@@ -22259,6 +22277,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-08-15 22:45:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-28 17:23:06 +0000"
@@ -22268,6 +22292,12 @@
   "xnet:recipes/xnet/advanced_connector_red": {
     "criteria": {
       "chest": "2025-07-28 13:40:12 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/advancedperipheralstab/peripheral_casing": {
+    "criteria": {
+      "has_item": "2025-08-15 22:45:11 +0000"
     },
     "done": true
   },
@@ -27163,6 +27193,12 @@
   "reliquary:recipes/misc/uncrafting/prismarine_crystals": {
     "criteria": {
       "has_guardian_spike": "2025-08-10 15:11:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_flux_generator_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:45:11 +0000"
     },
     "done": true
   },

@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "ic2:unprinted_wiki_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:47:30 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_red_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-07-30 17:55:16 +0000"
@@ -852,6 +858,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/natura_pylon": {
+    "criteria": {
+      "has_item": "2025-08-15 22:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-31 19:01:03 +0000"
@@ -1144,6 +1156,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 12:38:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:silver_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
     },
     "done": true
   },
@@ -2915,6 +2933,12 @@
     },
     "done": true
   },
+  "ic2:upgrade_base_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-28 17:46:31 +0000"
@@ -4003,6 +4027,12 @@
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-08-02 10:49:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_loader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
     },
     "done": true
   },
@@ -6597,6 +6627,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-28 22:48:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:silver_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
     },
     "done": true
   },
@@ -11296,6 +11332,12 @@
     },
     "done": true
   },
+  "ic2:ev_unloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/nether_quartz_hoe": {
     "criteria": {
       "has_nether_quartz": "2025-08-02 10:47:53 +0000"
@@ -12340,6 +12382,12 @@
   "allthemodium:recipes/allthemodium/allthemodium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-08-02 10:21:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium_enricher_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
     },
     "done": true
   },
@@ -14869,6 +14917,12 @@
     },
     "done": true
   },
+  "ic2:item_limiter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:47:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-07-30 21:06:09 +0000"
@@ -15964,6 +16018,12 @@
   "allthemodium:recipes/allthemodium/allthemodium_ingot_from_raw_blasting_blasting": {
     "criteria": {
       "has_item": "2025-08-02 10:20:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_transformer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
     },
     "done": true
   },
@@ -18596,6 +18656,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "ingot": "2025-07-28 12:43:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:stabilized_machine_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
     },
     "done": true
   },
@@ -22002,6 +22068,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-28 12:40:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:liquid_fuel_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:42:09 +0000"
     },
     "done": true
   },
