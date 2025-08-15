@@ -1529,3 +1529,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Aug2025 21:35:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
 [15Aug2025 21:35:34.896] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM
 [15Aug2025 21:44:51.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved wrongly!
+[15Aug2025 21:56:36.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Becky'/17447, l='ServerLevel[world]', x=-3777.47, y=121.00, z=-1375.72] died: Becky was slain by falseKazuM
+[15Aug2025 21:59:09.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Spectator Mode]

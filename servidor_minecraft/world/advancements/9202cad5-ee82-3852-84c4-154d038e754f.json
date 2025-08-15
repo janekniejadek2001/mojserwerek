@@ -444,6 +444,12 @@
     },
     "done": true
   },
+  "ic2:mfe_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
     "criteria": {
       "has_item": "2025-07-30 21:09:12 +0000"
@@ -765,6 +771,12 @@
   "ftbic:recipes/misc/smelting/dusts/copper_to_copper_ingot": {
     "criteria": {
       "has_item": "2025-07-30 17:30:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
@@ -1798,6 +1810,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/unobtainium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-08-15 21:52:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-07-28 13:49:54 +0000"
@@ -2092,6 +2110,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/vibranium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-08-15 21:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 12:38:51 +0000"
@@ -2131,6 +2155,12 @@
   "ftbic:recipes/ftbic/extruding/ingots/lead_to_lead_rod": {
     "criteria": {
       "has_item": "2025-08-02 11:44:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium__single_2_tag_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:52:15 +0000"
     },
     "done": true
   },
@@ -3253,6 +3283,12 @@
     },
     "done": true
   },
+  "ic2:uranium__near_depleted_tag_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:52:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-04 10:41:33 +0000"
@@ -4371,6 +4407,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_lime2": {
     "criteria": {
       "recipe_condition2": "2025-08-11 19:45:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:drain_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
@@ -7831,6 +7873,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/unobtainium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-08-15 21:52:15 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/volume_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-28 13:49:11 +0000"
@@ -8741,6 +8789,12 @@
     },
     "done": true
   },
+  "ic2:mv_battery_station_kit_indirect_gold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-08-10 12:09:42 +0000"
@@ -9219,6 +9273,12 @@
   "xycraft_world:recipes/xycraft_world/stonecutting/glass_viewer_dire": {
     "criteria": {
       "has_for_glass_viewer_dire": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/vibranium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-08-15 21:52:15 +0000"
     },
     "done": true
   },
@@ -10124,6 +10184,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/unobtainium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-08-15 21:52:15 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
     "criteria": {
       "has_paper": "2025-07-28 15:53:24 +0000"
@@ -10302,6 +10368,12 @@
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 14:22:07 +0000"
+    },
+    "done": true
+  },
+  "ic2:ov_scanner_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
@@ -11528,6 +11600,12 @@
   "ae2:recipes/tools/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2025-08-02 10:47:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:ov_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
@@ -14065,6 +14143,12 @@
     },
     "done": true
   },
+  "ic2:ranged_ov_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/heat_sink": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -14512,6 +14596,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-03 20:49:50 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/vibranium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-08-15 21:52:15 +0000"
     },
     "done": true
   },
@@ -16539,6 +16629,12 @@
     },
     "done": true
   },
+  "ic2:mv_transformer_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 17:30:24 +0000"
@@ -16639,6 +16735,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2025-08-11 20:16:30 +0000"
+    },
+    "done": true
+  },
+  "ic2:steam_turbine_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
@@ -17055,6 +17157,12 @@
   "alltheores:recipes/alltheores/gold_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-08-04 09:36:00 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/unobtainium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-08-15 21:52:15 +0000"
     },
     "done": true
   },
@@ -17758,6 +17866,12 @@
     },
     "done": true
   },
+  "ic2:mfe_upgrade_kit_indirect_gold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-08-03 19:27:25 +0000"
@@ -18020,6 +18134,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
     "criteria": {
       "has_lead_ingot": "2025-08-02 11:44:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:ranged_od_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
@@ -20372,6 +20492,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/vibranium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-08-15 21:52:15 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/jungle_staff": {
     "criteria": {
       "has_item": "2025-08-10 14:51:49 +0000"
@@ -20628,6 +20754,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_lime_dye": "2025-08-11 19:45:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:52:15 +0000"
     },
     "done": true
   },
@@ -21175,6 +21307,12 @@
     },
     "done": true
   },
+  "ic2:redirector_slave_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/gold_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-08-04 09:36:00 +0000"
@@ -21462,6 +21600,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 19:27:56 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/unobtainium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-08-15 21:52:15 +0000"
     },
     "done": true
   },
@@ -22018,6 +22162,12 @@
     },
     "done": true
   },
+  "ic2:transformer_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-08-03 20:49:50 +0000"
@@ -22222,6 +22372,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-10 12:23:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:damage_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
@@ -22916,6 +23072,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/vibranium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-08-15 21:52:15 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-08-09 22:54:06 +0000",
@@ -23371,6 +23533,12 @@
     },
     "done": true
   },
+  "ic2:mv_charge_bench_kit_indirect_gold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/glowing_bread": {
     "criteria": {
       "has_glowing_water": "2025-07-28 20:50:05 +0000"
@@ -23796,6 +23964,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-07-30 17:55:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:complex_circuit_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
@@ -24696,6 +24870,12 @@
     },
     "done": true
   },
+  "ic2:proximity_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-07-28 12:38:03 +0000"
@@ -25517,6 +25697,12 @@
   "mekanism:infusing_efficiency": {
     "criteria": {
       "enriched_material": "2025-08-05 10:27:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:54:41 +0000"
     },
     "done": true
   },
