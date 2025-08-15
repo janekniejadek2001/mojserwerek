@@ -14340,6 +14340,12 @@
     },
     "done": true
   },
+  "ic2:scrapbox_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:13:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-03 11:00:26 +0000"
@@ -16981,6 +16987,12 @@
   "aeinfinitybooster:recipes/aeinfinitybooster/infinity_card": {
     "criteria": {
       "has_item": "2025-07-31 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "ic2:fertilizer_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:13:41 +0000"
     },
     "done": true
   },
@@ -19913,6 +19925,12 @@
     },
     "done": true
   },
+  "ic2:fertilizer_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:13:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-07-28 12:43:04 +0000"
@@ -22287,6 +22305,12 @@
   "undergarden:recipes/undergarden_group/catalyst": {
     "criteria": {
       "has_gold": "2025-07-28 12:38:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:overgrowth_fertilizer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 21:13:41 +0000"
     },
     "done": true
   },

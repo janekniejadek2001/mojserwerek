@@ -1497,3 +1497,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Aug2025 21:08:39.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
 [15Aug2025 21:13:24.233] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
 [15Aug2025 21:13:27.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[15Aug2025 21:16:06.054] [Server thread/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[15Aug2025 21:16:09.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3894ms or 77 ticks behind
+[15Aug2025 21:16:09.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mikolajk moved too quickly! -17.34349333182581,-1.5275422877491707,5.558997760693728
+[15Aug2025 21:23:25.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mikolajk lost connection: Disconnected
+[15Aug2025 21:23:25.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk left the game
