@@ -1556,3 +1556,21 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Aug2025 22:23:46.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Diliviel'/29824, l='ServerLevel[world]', x=-3673.21, y=130.00, z=-1307.26] died: Diliviel was slain by falseKazuM
 [15Aug2025 22:26:45.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/29820, l='ServerLevel[world]', x=-3797.03, y=134.19, z=-1283.87] died: Honeyed Archer suffocated in a wall
 [15Aug2025 22:29:42.984] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Mr. President Nathan the AC Rizzlord'/30888, l='ServerLevel[world]', x=-3667.91, y=126.00, z=-1333.95] died: Mr. President Nathan the AC Rizzlord was slain by falseKazuM
+[15Aug2025 22:31:54.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[15Aug2025 22:31:54.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved too quickly! 0.3304281461919345,19.11472425038093,0.08276789581850608
+[15Aug2025 22:32:03.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM lost connection: Disconnected
+[15Aug2025 22:32:03.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM left the game
+[15Aug2025 22:32:52.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[15Aug2025 22:33:10.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[15Aug2025 22:33:31.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15Aug2025 22:34:10.063] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d0fe60d
+[15Aug2025 22:34:10.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KazuM[/127.91.33.167:40113] logged in with entity id 31543 at (-3728.8133512065215, 132.5625, -1314.7534270599403)
+[15Aug2025 22:34:10.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KazuM
+[15Aug2025 22:34:10.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KazuM
+[15Aug2025 22:34:10.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KazuM
+[15Aug2025 22:34:10.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KazuM
+[15Aug2025 22:34:10.143] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KazuM
+[15Aug2025 22:34:10.145] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KazuM
+[15Aug2025 22:34:10.145] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
+[15Aug2025 22:34:10.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
+[15Aug2025 22:34:10.421] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM

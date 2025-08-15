@@ -3800,6 +3800,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/decorations/dead_bush": {
+    "criteria": {
+      "has_salts": "2025-08-15 22:37:35 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/shard_torch": {
     "criteria": {
       "has_stick": "2025-07-28 11:44:06 +0000"
@@ -21409,6 +21415,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2025-08-15 22:37:35 +0000"
+    },
+    "done": true
+  },
   "allthemodium:recipes/allthemodium/vibranium_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-08-09 18:35:16 +0000"
@@ -24608,6 +24620,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2025-08-15 22:37:35 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_light_r": {
     "criteria": {
       "has_quartz_bricks": "2025-08-09 13:53:05 +0000"
@@ -26594,6 +26612,12 @@
   "ae2:recipes/ae2.main/network/cables/smart_red": {
     "criteria": {
       "has_dyes/black": "2025-08-10 11:03:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2025-08-15 22:37:35 +0000"
     },
     "done": true
   },
