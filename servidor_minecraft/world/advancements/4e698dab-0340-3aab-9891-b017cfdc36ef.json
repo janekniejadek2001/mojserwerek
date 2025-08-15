@@ -677,6 +677,12 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-08-15 22:17:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 21:09:08 +0000"
@@ -7293,6 +7299,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-28 22:26:23 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-08-15 22:17:40 +0000"
     },
     "done": true
   },
