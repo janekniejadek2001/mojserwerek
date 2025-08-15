@@ -6,16 +6,16 @@
 	last_seen: { dim: "minecraft:overworld", x: -3732, y: 144, z: -1311, time: 1755293734894L, xRot: 81.87431f, yRot: 19.337915f }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: -3546, y: 9, z: -496, time: 1754830440173L, xRot: -51.651207f, yRot: 1.4581114f }
-		{ dim: "minecraft:overworld", x: -2926, y: -50, z: 315, time: 1754835109924L, xRot: 7.9861693f, yRot: 160.21619f }
-		{ dim: "minecraft:overworld", x: -359, y: 71, z: -4064, time: 1754836912269L, xRot: 11.427404f, yRot: -163.24329f }
-		{ dim: "minecraft:overworld", x: -3963, y: 35, z: 432, time: 1754838944420L, xRot: 7.7870107f, yRot: -97.808014f }
-		{ dim: "minecraft:overworld", x: -3481, y: -46, z: -1132, time: 1754839370596L, xRot: 18.493832f, yRot: -160.82202f }
 		{ dim: "minecraft:overworld", x: -3730, y: 132, z: -1319, time: 1754839856529L, xRot: 13.384132f, yRot: 41.620148f }
 		{ dim: "minecraft:overworld", x: -3774, y: 95, z: -1332, time: 1754839945620L, xRot: 10.273279f, yRot: -137.07394f }
 		{ dim: "minecraft:overworld", x: -3729, y: 136, z: -1324, time: 1755295093153L, xRot: 81.396484f, yRot: -0.5939636f }
 		{ dim: "minecraft:overworld", x: -3769, y: 105, z: -1336, time: 1755295523241L, xRot: 7.0223775f, yRot: 94.37198f }
 		{ dim: "minecraft:overworld", x: -3773, y: 102, z: -1334, time: 1755296101338L, xRot: 17.251762f, yRot: -102.27668f }
+		{ dim: "minecraft:overworld", x: -3769, y: 95, z: -1331, time: 1755296558925L, xRot: 18.259605f, yRot: 123.83862f }
+		{ dim: "minecraft:overworld", x: -3724, y: 132, z: -1315, time: 1755296652843L, xRot: 33.406982f, yRot: 79.15326f }
+		{ dim: "minecraft:overworld", x: -3774, y: 95, z: -1332, time: 1755296662947L, xRot: 14.097227f, yRot: -116.52055f }
+		{ dim: "minecraft:overworld", x: -3767, y: 135, z: -1332, time: 1755296727227L, xRot: 24.473303f, yRot: -121.695786f }
+		{ dim: "minecraft:overworld", x: -3774, y: 95, z: -1332, time: 1755296870950L, xRot: 28.341015f, yRot: 158.87671f }
 	]
 	homes: {
 		home: { dim: "minecraft:overworld", x: -359, y: 44, z: -361, time: 1753711586675L, xRot: 22.126635f, yRot: 89.36304f }

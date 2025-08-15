@@ -1546,3 +1546,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Aug2025 22:17:40.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Drying like a boss]
 [15Aug2025 22:19:57.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Spectator Mode]
 [15Aug2025 22:20:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
+[15Aug2025 22:20:32.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has reached the goal [Far from the Fight]
+[15Aug2025 22:20:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Spectator Mode]
+[15Aug2025 22:21:50.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
+[15Aug2025 22:22:11.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Spectator Mode]
+[15Aug2025 22:22:20.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
+[15Aug2025 22:22:32.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: The difficulty has been set to Peaceful]
+[15Aug2025 22:22:41.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: The difficulty has been set to Easy]
+[15Aug2025 22:23:46.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Diliviel'/29824, l='ServerLevel[world]', x=-3673.21, y=130.00, z=-1307.26] died: Diliviel was slain by falseKazuM
+[15Aug2025 22:26:45.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/29820, l='ServerLevel[world]', x=-3797.03, y=134.19, z=-1283.87] died: Honeyed Archer suffocated in a wall
+[15Aug2025 22:29:42.984] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Mr. President Nathan the AC Rizzlord'/30888, l='ServerLevel[world]', x=-3667.91, y=126.00, z=-1333.95] died: Mr. President Nathan the AC Rizzlord was slain by falseKazuM
