@@ -1632,3 +1632,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Aug2025 23:20:59.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=59, z=-124} BlockPos{x=-437, y=59, z=-123}
 [15Aug2025 23:21:50.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=63, z=-158} BlockPos{x=-440, y=65, z=-154}
 [15Aug2025 23:21:50.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=63, z=-158} BlockPos{x=-440, y=65, z=-154}
+[15Aug2025 23:29:11.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Duchess Petunia the Son of Herobrine'/49188, l='ServerLevel[world]', x=-3779.79, y=132.00, z=-1282.61] died: Duchess Petunia the Son of Herobrine was slain by falseKazuM

@@ -7982,6 +7982,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/matcha_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2025-08-15 23:20:45 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/thermal_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 11:31:14 +0000"
@@ -12752,6 +12758,12 @@
   "cfm:recipes/cfm/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-07-28 12:08:26 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/salmonberry_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2025-08-15 23:20:45 +0000"
     },
     "done": true
   },
@@ -18479,6 +18491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2025-08-15 23:20:45 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_blue_r": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-09 10:25:59 +0000"
@@ -19334,6 +19352,12 @@
   "alltheores:recipes/alltheores/raw_lead_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-07-28 22:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-08-15 23:20:45 +0000"
     },
     "done": true
   },
@@ -24841,6 +24865,12 @@
     "criteria": {
       "has_bamboo": "2025-07-28 11:28:32 +0000",
       "has_bundle": "2025-07-28 11:28:32 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/packed_ice": {
+    "criteria": {
+      "has_the_recipe": "2025-08-15 23:20:45 +0000"
     },
     "done": true
   },
