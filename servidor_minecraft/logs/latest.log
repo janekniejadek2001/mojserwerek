@@ -1531,3 +1531,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Aug2025 21:44:51.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved wrongly!
 [15Aug2025 21:56:36.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Becky'/17447, l='ServerLevel[world]', x=-3777.47, y=121.00, z=-1375.72] died: Becky was slain by falseKazuM
 [15Aug2025 21:59:09.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Spectator Mode]
+[15Aug2025 22:00:38.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
+[15Aug2025 22:01:24.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@383cbedf
+[15Aug2025 22:03:57.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Creative Mode]
+[15Aug2025 22:04:09.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
+[15Aug2025 22:05:39.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/18897, l='ServerLevel[world]', x=-3491.81, y=109.57, z=-820.76] died: Honeyed Archer burned to death
+[15Aug2025 22:08:20.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/16419, l='ServerLevel[world]', x=-3886.67, y=94.87, z=-1473.59] died: Honeyed Archer suffocated in a wall
