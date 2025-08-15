@@ -7597,6 +7597,12 @@
     },
     "done": true
   },
+  "ic2:restoring_fertilizer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 23:16:02 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_battery_station_bronze_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:06:10 +0000"
@@ -10870,6 +10876,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-07-28 23:10:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:coolant_cell_30_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 23:16:02 +0000"
     },
     "done": true
   },
