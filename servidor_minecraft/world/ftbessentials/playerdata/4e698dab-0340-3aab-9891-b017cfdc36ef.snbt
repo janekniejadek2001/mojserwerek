@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: "KazuM"
-	last_seen: { dim: "minecraft:overworld", x: -3730, y: 132, z: -1315, time: 1755292116083L, xRot: 17.399408f, yRot: 166.50621f }
+	last_seen: { dim: "minecraft:overworld", x: -3732, y: 144, z: -1311, time: 1755293734894L, xRot: 81.87431f, yRot: 19.337915f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -3732, y: 132, z: -1322, time: 1754822766101L, xRot: 13.575295f, yRot: 23.446106f }

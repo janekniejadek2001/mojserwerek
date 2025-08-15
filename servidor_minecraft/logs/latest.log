@@ -1502,3 +1502,30 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Aug2025 21:16:09.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mikolajk moved too quickly! -17.34349333182581,-1.5275422877491707,5.558997760693728
 [15Aug2025 21:23:25.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mikolajk lost connection: Disconnected
 [15Aug2025 21:23:25.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk left the game
+[15Aug2025 21:29:49.920] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b8b28c9
+[15Aug2025 21:29:50.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mikolajk[/127.94.105.1:41833] logged in with entity id 8293 at (-3481.279964501699, 67.0, -742.070673615339)
+[15Aug2025 21:29:50.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to mikolajk
+[15Aug2025 21:29:50.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to mikolajk
+[15Aug2025 21:29:50.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to mikolajk
+[15Aug2025 21:29:50.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to mikolajk
+[15Aug2025 21:29:50.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to mikolajk
+[15Aug2025 21:29:50.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to mikolajk
+[15Aug2025 21:29:50.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to mikolajk
+[15Aug2025 21:29:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk joined the game
+[15Aug2025 21:29:50.431] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mikolajk
+[15Aug2025 21:35:17.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM was kicked for floating too long!
+[15Aug2025 21:35:17.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM lost connection: Flying is not enabled on this server
+[15Aug2025 21:35:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM left the game
+[15Aug2025 21:35:17.435] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Aug2025 21:35:34.559] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@277f00eb
+[15Aug2025 21:35:34.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KazuM[/127.91.33.167:59645] logged in with entity id 10561 at (-3731.574887397141, 144.52024040672637, -1310.1122095197716)
+[15Aug2025 21:35:34.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KazuM
+[15Aug2025 21:35:34.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KazuM
+[15Aug2025 21:35:34.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KazuM
+[15Aug2025 21:35:34.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KazuM
+[15Aug2025 21:35:34.609] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KazuM
+[15Aug2025 21:35:34.611] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KazuM
+[15Aug2025 21:35:34.611] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
+[15Aug2025 21:35:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
+[15Aug2025 21:35:34.896] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM
+[15Aug2025 21:44:51.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved wrongly!
