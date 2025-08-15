@@ -2723,6 +2723,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/brewing/uncrafting/magma_cream": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 22:34:14 +0000"
@@ -5620,6 +5626,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/destruction_catalyst": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:23 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_trapdoor": {
     "criteria": {
       "has_item": "2025-08-09 11:12:18 +0000"
@@ -7149,6 +7161,12 @@
   "tetra:spelunking/root": {
     "criteria": {
       "spelunking": "2025-07-28 17:10:58 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/blaze": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:24 +0000"
     },
     "done": true
   },
@@ -13206,6 +13224,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/blaze_rod": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-28 17:23:06 +0000"
@@ -15331,6 +15355,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-07-28 23:10:35 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/lantern_of_paranoia": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:24 +0000"
     },
     "done": true
   },
@@ -21392,6 +21422,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/midas_touchstone": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-15 21:41:04 +0000"
@@ -22917,6 +22953,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/magma_cube": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 11:28:32 +0000"
@@ -23185,6 +23227,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-30 17:51:59 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/salamander_eye": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:23 +0000"
     },
     "done": true
   },
@@ -27670,6 +27718,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 11:58:51 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/interdiction_torch": {
+    "criteria": {
+      "has_molten_core": "2025-08-15 23:08:24 +0000"
     },
     "done": true
   },

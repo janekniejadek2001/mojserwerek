@@ -1574,3 +1574,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Aug2025 22:34:10.145] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
 [15Aug2025 22:34:10.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
 [15Aug2025 22:34:10.421] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM
+[15Aug2025 23:03:32.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/37097, l='ServerLevel[world]', x=-3832.65, y=129.29, z=-1328.42] died: Honeyed Archer suffocated in a wall
+[15Aug2025 23:05:50.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Draxial the Hungry'/38084, l='ServerLevel[world]', x=-3769.96, y=133.00, z=-1308.19] died: Draxial the Hungry was slain by falseKazuM

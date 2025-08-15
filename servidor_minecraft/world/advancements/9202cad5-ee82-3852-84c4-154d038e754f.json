@@ -7463,6 +7463,12 @@
     },
     "done": true
   },
+  "ic2:coal_ball_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:59:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-07-31 11:11:15 +0000"
@@ -12421,6 +12427,12 @@
     },
     "done": true
   },
+  "ic2:alloy_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 23:08:30 +0000"
+    },
+    "done": true
+  },
   "ic2:wet_cfoam_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-08-15 21:42:44 +0000"
@@ -12791,6 +12803,12 @@
   "silentgear:recipes/silentgear/blueprint_paper": {
     "criteria": {
       "has_paper": "2025-07-28 15:53:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:uncompressed_super_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 23:05:56 +0000"
     },
     "done": true
   },
@@ -18485,6 +18503,12 @@
     },
     "done": true
   },
+  "ic2:itnt_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:59:10 +0000"
+    },
+    "done": true
+  },
   "mininggadgets:recipes/mininggadgets/upgrade_empty": {
     "criteria": {
       "has_diamonds": "2025-07-28 15:35:46 +0000"
@@ -18980,6 +19004,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/constantan_mix": {
     "criteria": {
       "has_nickel_dust": "2025-08-12 12:06:44 +0000"
+    },
+    "done": true
+  },
+  "ic2:scrap_metal_blade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:59:10 +0000"
     },
     "done": true
   },
@@ -21162,6 +21192,12 @@
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-08-03 12:34:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:itnt_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:59:10 +0000"
     },
     "done": true
   },
@@ -24289,6 +24325,12 @@
       "in_better_spider_dungeon": "2025-07-28 18:35:21 +0000"
     },
     "done": false
+  },
+  "ic2:raw_obsidian_blade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-08-15 22:59:10 +0000"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
